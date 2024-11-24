@@ -23,4 +23,4 @@
 
  factor_finder find factors of an inputted number in the main function of factor_finder.c
 
- This system is related to other work but is a number system, and so the copyright statements are a safeguard for other reasons, i am not a lawyer, im also not angry.
+ This system is related to other work but is a number system, and so the copyright statements are a safeguard for other reasons, i am not a lawyer.
