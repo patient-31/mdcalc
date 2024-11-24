@@ -1,2 +1,2 @@
 
-Copyright (C) 2024 Daniel Haddington
+Copyright (C) 2024 Danielle Haddington

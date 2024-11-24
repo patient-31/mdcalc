@@ -1,0 +1,11 @@
+c->digit_fnt_surf[i] v1:4 v2:-1 v3:-1
+c->op_fnt_surf
+c->op_fnt_surf
+c->op_fnt_surf
+c->op_fnt_surf
+c->op_fnt_surf
+c->op_fnt_surf
+c->digit_fnt_surf[i] v1:1 v2:-1 v3:-1
+c->pd_l_fnt_surf[i] v1:0 v2:-1 v3:-1
+c->result_fnt_surf
+c->result_fnt_surf
