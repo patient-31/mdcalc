@@ -236,7 +236,7 @@ int main(int argc, char **argv)
 	else 
 	{
 		printf("Please Input The Integer To Be Found\n");
-		printf("Usage: ./find 42");
+		printf("Usage: ./search 42");
 		exit(1);
 	}
 	while (1)
